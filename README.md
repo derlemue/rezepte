@@ -5,4 +5,4 @@ Hier findest du eine Sammlung kreativer und leckerer Rezepte, die in thematisch 
 
 ## Inhaltsverzeichnis
 
-- [Brot-Spektakel: HerzhaftBrotDeluxe](#brot-spektakel-herzhaftbrotdeluxe)
+- [Brot-Spektakel: HerzhaftBrotDeluxe](#brot-spektakel-herzhaftbrotdeluxe.md)
