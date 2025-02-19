@@ -17,7 +17,3 @@ Ein herzhaftes Brotrezept, das mit Speck, Gouda, Röstzwiebeln und einer Prise Z
 1. Alle Zutaten zu einem homogenen Teig verkneten.
 2. Den Teig ca. 30 Minuten bei 30–40 °C gehen lassen.
 3. Im vorgeheizten Gusseisentopf bei 250 °C backen: 30 Minuten mit geschlossenem Deckel (für Dampf und saftigen Innenraum) und anschließend 30 Minuten ohne Deckel (für eine knusprige Kruste).
-
-## Weitere Rezepte
-
-In diesem Repository findest du noch viele weitere Rezepte, die jeweils in eigenen Ordnern organisiert sind.
